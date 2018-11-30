@@ -36,4 +36,7 @@ Two roads diverged in a wood, and I—
 I took the one less traveled by,
 And that has made all the difference.
 
+I've got too many psets due next week, can't write too much more here...
+Have a look at this SatireV [article](http://satirev.org/harvard/function-mapping-your-cs121-performance-good-grade-uncomputable) for some laughs about CS121.
 
+Also, did you know that SatireV is just Veritas backwards? Amazing, right?
